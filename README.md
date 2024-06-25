@@ -290,7 +290,6 @@ In this i will practice about our web dev practice questions
     ```
 
 26. **Code a simple web page layout that includes a header, footer, sidebar, and main content area using CSS Grid and Flexbox. Ensure it
-
  is responsive.**
     ```html
     <!-- index.html -->
